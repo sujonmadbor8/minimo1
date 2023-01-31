@@ -217,6 +217,11 @@ header {
     color: #626262;
     cursor: pointer;
 }
+.blog_button button:hover {
+    border: none;
+    background-color: #626262;
+    color: #ffffff;
+}
 /* blog2 end  */
 
 /* footer start  */
@@ -241,9 +246,7 @@ footer {
     border-bottom: 1px solid transparent;
     color: #626262;
 }
-.terms ul li a:hover {
-    border-bottom: 1px solid #626262;
-}
+
 .social {
     float: right;
 }
